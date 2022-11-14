@@ -1,10 +1,10 @@
-# Title (replace with your title)
+Regex Tutorial
 
-Introductory paragraph (replace this with your text)
+This is a github gist that gives a brief tutorial on regex
 
 ## Summary
 
-Briefly summarize the regex you will be describing and what you will explain. Include a code snippet of the regex. Replace this text with your summary.
+
 
 ## Table of Contents
 
@@ -46,4 +46,8 @@ Briefly summarize the regex you will be describing and what you will explain. In
 
 ## Author
 
-A short section about the author with a link to the author's GitHub profile (replace with your information and a link to your profile)
+Madeline Burns
+
+I'm a web developer in the UNCC bootcamp!!
+
+github: https://github.com/MaddieBurns12
